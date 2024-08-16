@@ -1,3 +1,9 @@
+⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+
+This project is deprecated in favor of modern Grbl replacements with built-in support for wall plotters and/or modular kinematics configs. See µCNC, grblHAL, FluidNC or Rabbit GRBL.
+
+⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 
 ***
